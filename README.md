@@ -7,7 +7,7 @@ should be used as a reference to plan out your journey.
 I will keep updating this periodically.
 
 
-## Resources
+## Begin Here
 
 - [Learn Machine Learning in 3 months](https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months)
 - [Learn Data Science in 3 months](https://github.com/llSourcell/Learn_Data_Science_in_3_Months)
@@ -16,6 +16,11 @@ I will keep updating this periodically.
 - [Data Science Roadmap](https://github.com/66daysofdata/datascienceroadmap)
 - [Mathematics for ML](https://github.com/dair-ai/Mathematics-for-ML)
 - [ML Courses on YouTube - Collection of Up-to-date YouTube Course](https://github.com/dair-ai/ML-YouTube-Courses)
+- Search for AI-ML, Deep Learning, etc courses on [Swayam](https://swayam.gov.in/explorer)
+
+## Deeper Dive
+
+
 - [ML Course Notes](https://github.com/dair-ai/ML-Course-Notes)
 - [ML Notebooks - Lots of Examples](https://github.com/dair-ai/ML-Notebooks)
 - [MIT Deep Learning course - Lex Fridman](https://github.com/lexfridman/mit-deep-learning)
@@ -40,7 +45,6 @@ I will keep updating this periodically.
 - [FastAI Book - Introduction to Deep Learning, Fastai and PyTorch](https://github.com/fastai/fastbook)
 - [Deep Learning Classes by Hugging Face](https://github.com/huggingface/deep-rl-class)
 - [Monte Carlo Tree Search Papers](https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers)
-- Search for AI-ML, Deep Learning, etc courses on [Swayam](https://swayam.gov.in/explorer)
 
 
 ## For further reference
